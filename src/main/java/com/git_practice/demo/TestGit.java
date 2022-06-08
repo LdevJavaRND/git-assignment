@@ -2,6 +2,6 @@ package com.git_practice.demo;
 
 public class TestGit {
 	public static void main(String arg[]) {
-		System.out.println("hello world");
+		System.out.println("Hello feature  2");
 	}
 }
